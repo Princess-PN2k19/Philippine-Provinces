@@ -1,0 +1,52 @@
+body {
+    font-family: Verdana;
+    font-size: 13px;
+    background: #ffe6ff;
+	margin-top: 1%;
+}
+#name {
+	background-color: #fa74cdec
+}
+li {
+	display: block;
+}
+.first {
+	width: 100%;
+	border-radius: 8px;
+	border: 1px solid 	#404040;
+	position: relative;
+}
+.second {
+	width: 50%;
+	border-radius: 8px;
+	border: 1px solid 	#404040;
+	position: relative;
+}
+.third {
+	width: 49%;
+	border-radius: 8px;
+	border: 1px solid 	#404040;
+	position: relative;
+}
+.del {
+	text-transform: uppercase;
+  	color: black;
+  	font-weight: bold
+}
+label {
+	text-transform: uppercase;
+  	color: black;
+  	font-weight: bold
+}
+p {
+	text-align: justify;
+	text-indent: 50px;
+	margin-left: 10%;
+	margin-right: 10%;
+	background-color: #e6e6ff;
+	border: 2px solid #fa74cdec;
+}
+button {
+	padding: 15px;
+	background-color: #ccccff;
+}

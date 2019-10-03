@@ -1,0 +1,10 @@
+{
+    "images": ["http://localhost:8080/images/eastern-samar1.jpg", "http://localhost:8080/images/eastern-samar2.jpg", "http://localhost:8080/images/eastern-samar3.jpg"],
+    "shortname": "eastern-samar",
+    "name": "Province of Eastern Samar",
+    "group": "Visayas",
+    "population": 467160,
+    "list_of_delicacies": ["Salukara", "Sarungsong", "Chocolate Moron", "Suman Latik", "Puto"],
+    "write_up": "It was in Eastern Samar where Ferdinand Magellan landed in Homonhon Island in the town of Guiuan on March 16, 1521, in what is now officially recognized as the discovery of the Philippines by the Western World. Magellan called the place Zamal. On September 28, 1901, Filipino rebels in the town of Balangiga attacked and almost wiped out American troops billeted in the municipal building and church convent. Now known in history books as the Balangiga Massacre Day, the incident triggered a ruthless pacification campaign by US forces aimed at turning the entire island of Samar into a howling wilderness. It was during this campaign that American soldiers took the Balangiga Bells from the Balangiga church as war trophies. The bells remain on display at Warren Air Force Base in Cheyenne, Wyoming. On October 17, 1944, US Army rangers landed on the island of Suluan in Guiuan where they fought their first battle on Philippine territory three days before Gen. Douglas MacArthur stormed the beaches of Leyte.",
+    "rating": 0
+}

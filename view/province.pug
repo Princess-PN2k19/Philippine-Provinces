@@ -1,0 +1,44 @@
+html
+    head
+        title=shortname
+        style
+            include style.css
+        script(src="/ajax/jquery.js")      
+        script(src="/ajax/rateValue.js")
+body
+    center
+        h1#name=name
+        div
+            img.first(src=image1)
+        br
+        img.second(src=image2)
+        img.third(src=image3)
+        br
+        br
+        br
+        label.label Major Island:
+        span=group
+        br
+        br
+        label Population:
+        span=population
+        br
+        br
+        label.del Delicacies:
+        ul
+            each delicacy in delicacies
+                li=delicacy
+        br
+        p=write_up
+        br
+        br
+        label Rating:
+        h1#ratings=rating
+        br
+        br
+        button#1 1
+        button#2 2
+        button#3 3
+        button#4 4
+        button#5 5
+

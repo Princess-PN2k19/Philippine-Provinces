@@ -1,0 +1,10 @@
+{
+    "images": ["http://localhost:8080/images/pangasinan1.png", "http://localhost:8080/images/pangasinan2.jpg", "http://localhost:8080/images/pangasinan3.jpg"],
+    "shortname" : "pangasinan",
+    "name": "Province of Pangasinan",
+    "group": "Luzon",
+    "population": 2956726,
+    "list_of_delicacies": ["Tupig", "Binungey", "Tsokolate Tableya", "Pakasyat", "Calasiao Puto and Kutsinta"],
+    "write_up": "The third biggest province in the whole Philippine Archipelago, derived its name from salt or “asin” in the vernacular. Owing to the rich and fine salt beds which were the prime source of livelihood for the province’s coastal towns, PanagASINan or “Pangasinan” which means “where salt is made” came to be its name.",
+    "rating": 0
+}

@@ -1,0 +1,10 @@
+{
+    "images": ["http://localhost:8080/images/palawan1.jpg", "http://localhost:8080/images/palawan2.jpg", "http://localhost:8080/images/palawan3.jpg"],
+    "shortname": "palawan",
+    "name": "Province of Palawan",
+    "group": "Mindanao",
+    "population": 849649,
+    "list_of_delicacies": ["Chicken Inasal", "Tamilok",  "Crocodile Sisig", "Lato Seaweed", "Hopia Bread"],
+    "write_up": "Palawan is really blessed to have a great potential when it comes to tourism, a promising island that will surely be loved by many people. This is one of the provinces that is mostly visited by both local and foreign visitors because of its alluring beauty and is a principal contributor to the blooming tourism in the Philippines. Palawan is rich in natural attractions. It has a lot of things for you to explore and discover.",
+    "rating": 0
+}
